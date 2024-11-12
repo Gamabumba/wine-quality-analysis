@@ -30,6 +30,6 @@ https://www.kaggle.com/datasets/zynicide/wine-reviews
 
 Clone the repository and install dependencies:
    ```bash
-   git clone [<ссылка на репозиторий>](https://github.com/Gamabumba/wine-quality-analysis).git
+   git clone https://github.com/Gamabumba/wine-quality-analysis.git
    cd wine-quality-analysis
    pip install -r requirements.txt
